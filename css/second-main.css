@@ -529,21 +529,6 @@ main .content .post .me input {
   background-color: rgba(63, 63, 63, 0.818);
   width: 100%;
 }
-main .content .post .me input:focus {
-
-
-
-
-
-
-
-
-
-
-
-
-  
-}
 main .content .post ul {
   display: flex;
   justify-content: space-between;
